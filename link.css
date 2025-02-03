@@ -46,3 +46,7 @@ a:hover {
     text-decoration: none;
     border-radius: 10px;
 }
+
+section img {
+    text-align: center;
+}
